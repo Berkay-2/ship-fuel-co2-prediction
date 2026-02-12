@@ -208,3 +208,8 @@ __marimo__/
 models_out/
 *.csv
 
+!ship_fuel_efficiency.csv
+!Ship_Performance_Dataset.csv
+!marine_engine_fault_dataset.csv
+
+
