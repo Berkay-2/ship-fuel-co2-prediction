@@ -25,7 +25,7 @@ warnings.filterwarnings("ignore")
 
 FUEL_CSV = "ship_fuel_efficiency.csv"
 SHIP_PERF_CSV = "Ship_Performance_Dataset.csv"
-ENGINE_FAULT_CSV = "marine_engine_fault_dataset .csv"
+ENGINE_FAULT_CSV = "marine_engine_fault_dataset.csv"
 
 OUT_DIR = Path("models_out")
 OUT_DIR.mkdir(exist_ok=True)
